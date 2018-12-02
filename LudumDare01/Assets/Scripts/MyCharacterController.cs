@@ -67,7 +67,7 @@ public class MyCharacterController : MonoBehaviour
         isJumping = true;
         isGrounded = false;
         jumpingTimeCounter = jumpingTime;
-        rBody.velocity += Vector3.up * 5*jumpVel * jumpingTimeCounter;
+        rBody.velocity = Vector3.up * 5*jumpVel * jumpingTimeCounter;
     }
 
     private void Jump()

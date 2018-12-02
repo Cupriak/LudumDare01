@@ -450,12 +450,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ec95aef28f858d4b863a3e6037d89cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpVel: 1.58
+  jumpVel: 1
+  jumpingTime: 0.4
   moveInitialVel: 100
   moveAcceleration: 0.1
   jumpableTags:
   - Ground
-  jumpingTime: 1
 --- !u!54 &1648743660
 Rigidbody:
   m_ObjectHideFlags: 0
