@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 39d13a30849d3c743b44a0b1d7d3f692
+  - enabled: 1
+    path: Assets/Scenes/Yanush.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Maryush.unity
+    guid: 58c3982dd1051d24db473ea4add4437c
   m_configObjects: {}
